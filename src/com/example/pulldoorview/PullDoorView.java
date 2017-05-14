@@ -22,12 +22,7 @@ import android.widget.RelativeLayout;
 import android.widget.Scroller;
 import android.widget.TextView;
 
-/**
- * 作者：dls on 2016/9/26 11:05
- * 邮箱：836680084@qq.com
- * 版本：1.0.0
- * 上拉遮罩层View  应用场景  手机锁屏  上拉解除锁屏 
- */
+
 public class PullDoorView extends RelativeLayout{
 
     private Context mContext;
