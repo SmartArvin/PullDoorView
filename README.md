@@ -4,4 +4,4 @@
 
 ### 效果图
 
-![screenshot](E:\GitHub_Local\project_space\PullDoorView\screenshot\screenshot.jpg)
+![screenshot](https://github.com/SmartArvin/PullDoorView/blob/master/screenshot/screenshot.jpg)
